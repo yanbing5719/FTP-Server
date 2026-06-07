@@ -83,4 +83,20 @@ password: 123
 ```text
 ftp>
 ```
+### 7. 常用命令
 
+查看文件列表：
+
+ftp> ls
+
+下载文件：
+
+ftp> get test.txt
+
+上传文件：
+
+ftp> put test.txt
+
+退出客户端：
+
+ftp> quit
